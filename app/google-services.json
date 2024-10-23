@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576678606886",
+    "project_id": "onlineshoppet-9ead1",
+    "storage_bucket": "onlineshoppet-9ead1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576678606886:android:2e9808d49ae6374df50ee7",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGBMTTzmJOxiUwYO3LM9NT2a_uMQNd4fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
